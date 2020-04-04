@@ -1,0 +1,8 @@
+# Project exclude paths
+/AVRO/target/
+/Flume-SEQ/target/
+/HDFS/target/
+/Hive/target/
+/map-reduce/target/
+/out/
+/zookeeper/target/

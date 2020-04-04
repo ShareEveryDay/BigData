@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/AVRO" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Flume-SEQ" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/HDFS" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/map-reduce" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zookeeper" charset="UTF-8" />
+  </component>
+</project>

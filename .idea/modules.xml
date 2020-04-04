@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AVRO/AVRO.iml" filepath="$PROJECT_DIR$/AVRO/AVRO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BigData.iml" filepath="$PROJECT_DIR$/BigData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrent/Concurrent.iml" filepath="$PROJECT_DIR$/Concurrent/Concurrent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Flume-SEQ/Flume-SEQ.iml" filepath="$PROJECT_DIR$/Flume-SEQ/Flume-SEQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HDFS/HDFS.iml" filepath="$PROJECT_DIR$/HDFS/HDFS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hive/Hive.iml" filepath="$PROJECT_DIR$/Hive/Hive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NIO/NIO.iml" filepath="$PROJECT_DIR$/NIO/NIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hbase/hbase.iml" filepath="$PROJECT_DIR$/hbase/hbase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/map-reduce/map-reduce.iml" filepath="$PROJECT_DIR$/map-reduce/map-reduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/scalaDemo/scalaDemo.iml" filepath="$PROJECT_DIR$/scalaDemo/scalaDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zookeeper/zookeeper.iml" filepath="$PROJECT_DIR$/zookeeper/zookeeper.iml" />
+    </modules>
+  </component>
+</project>

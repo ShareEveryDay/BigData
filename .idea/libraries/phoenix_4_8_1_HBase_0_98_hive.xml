@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="phoenix-4.8.1-HBase-0.98-hive">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-hive.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-queryserver.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-thin-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-core-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-core-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-flume-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-flume-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-hive-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-hive-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pherf-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pherf-4.8.1-HBase-0.98-minimal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pherf-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pig-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pig-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-queryserver-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-queryserver-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-queryserver-client-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-spark-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-spark-4.8.1-HBase-0.98-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-tracing-webapp-4.8.1-HBase-0.98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-tracing-webapp-4.8.1-HBase-0.98-runnable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-client.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-hive.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-server.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-thin-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-core-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-flume-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-hive-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pherf-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-pig-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-queryserver-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-queryserver-client-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-tracing-webapp-4.8.1-HBase-0.98-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-client.jar!/" />
+      <root url="jar://$PROJECT_DIR$/hbase/lib/phoenix-4.8.1-HBase-0.98-client.jar!/org/apache/phoenix/shaded" />
+    </SOURCES>
+  </library>
+</component>
